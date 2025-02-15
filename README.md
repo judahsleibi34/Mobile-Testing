@@ -1,5 +1,6 @@
 # Project Title: Tour Palestine Mobile Application – Automation Testing Report
-## Date of the Project: 4-2-2025
+## Date of the Project: 
+4-2-2025
 ## Overview
 This README outlines the automation testing conducted on the Tiur Palestine mobile application. The testing focused on validating core functionalities across multiple scenarios using Android Studio, Appium Server, and Eclipse. Additionally, a JMeter project was used to test the performance of web pages related to the application. The primary goal is to provide insights into the testing process and results for better understanding and review.
 
